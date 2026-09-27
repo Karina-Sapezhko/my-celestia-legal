@@ -5,3 +5,9 @@ Public legal documents and support pages only. Plain HTML and CSS; no build tool
 English is the primary legal version. Keep EN/UK/RU consistent when editing. Effective date: 28 September 2026. The legal documents describe SDK metrics and the search cache as well as local storage.
 
 Serve the directory with any static HTTP server for preview. Publish the root of `main` with GitHub Pages. `.nojekyll` disables Jekyll. No application source, secrets or user data belong in this repository.
+
+Live website: https://karina-sapezhko.github.io/my-celestia-legal/
+
+English Privacy: https://karina-sapezhko.github.io/my-celestia-legal/privacy/
+
+English Support: https://karina-sapezhko.github.io/my-celestia-legal/support/
