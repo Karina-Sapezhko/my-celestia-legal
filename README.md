@@ -1,4 +1,4 @@
-# My Celestia legal website
+# Visteli legal website
 
 Public legal documents and support pages only. Plain HTML and CSS; no build tools, JavaScript, cookies or analytics added by this site. GitHub Pages can process standard request metadata.
 
